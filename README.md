@@ -7,13 +7,13 @@
 
 - 👯 I’m looking to collaborate on [Upwork](https://www.upwork.com/freelancers/~01e28d7b15f76e726a)
 
-- 👨‍💻 All of my projects are available at [https://cardonwebstudios.com/](https://cardonwebstudios.com/)
+- 👨‍💻 All of my projects are available at [Cardon Web Studios](https://cardonwebstudios.com/)
 
 - 💬 Ask me about **django, react, python**
 
 - 📫 How to reach me **cardon.kristen.n@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/k-cardon/](https://www.linkedin.com/in/k-cardon/)
+- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/k-cardon/)
 
 - ⚡ Fun fact **I'm an NBA fan! Go Jazz :)**
 
