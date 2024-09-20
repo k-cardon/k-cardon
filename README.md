@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [Cardon Web Studios](https://cardonwebstudios.com/)
 
-- 💬 Ask me about **react, django, python, typescript**
+- 💬 Ask me about **react, typescript, django, python**
 
 - 📫 How to reach me **cardon.kristen.n@gmail.com**
 
