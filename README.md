@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kristen</h1>
 <h3 align="center">A full stack web developer in Los Angeles</h3>
 
-- 🔭 I’m currently working on [zebraMD](https://www.zebramd.org/)
+- 🔭 I’m currently working at [zebraMD](https://www.zebramd.org/)
 
 - 🌱 I’m currently learning **Test-driven development**
 
