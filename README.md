@@ -3,17 +3,17 @@
 
 - 🔭 I’m currently working at [zebraMD](https://www.zebramd.org/)
 
-- 🌱 I’m currently learning **Test-driven development**
+- 🌱 I’m currently learning **test-driven development**
 
 - 👯 I’m looking to collaborate on [Upwork](https://www.upwork.com/freelancers/~01e28d7b15f76e726a)
 
-- 👨‍💻 All of my projects are available at [Cardon Web Studios](https://cardonwebstudios.com/)
+- 👨‍💻 My projects are available at [Cardon Web Studios](https://cardonwebstudios.com/)
 
 - 💬 Ask me about **react, typescript, django, python**
 
 - 📫 How to reach me **cardon.kristen.n@gmail.com**
 
-- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/k-cardon/)
+- 📄 Info about my experiences [LinkedIn](https://www.linkedin.com/in/k-cardon/)
 
 - ⚡ Fun fact **I'm an NBA fan! Go Jazz :)**
 
