@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kristen</h1>
-<h3 align="center">software engineer based in Los Angeles</h3>
+<h3 align="center">A software engineer based in Los Angeles</h3>
 
 - 🔭 I’m currently working at [zebraMD](https://www.zebramd.org/)
 
