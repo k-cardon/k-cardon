@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **test-driven development**
 
-- 👯 I’m looking to collaborate on [Upwork](https://www.upwork.com/freelancers/~01e28d7b15f76e726a)
+- 👯 I’m looking to collaborate at [Upwork](https://www.upwork.com/freelancers/~01e28d7b15f76e726a)
 
 - 👨‍💻 My projects are available at [Cardon Web Studios](https://cardonwebstudios.com/)
 
